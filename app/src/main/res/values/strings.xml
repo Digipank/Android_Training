@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LayoutDemo</string>
+
+    <string name="login_success">Login Successfyll</string>
+    <string name="fill_form_filed_required">Please check all field are required!!!</string>
+</resources>
