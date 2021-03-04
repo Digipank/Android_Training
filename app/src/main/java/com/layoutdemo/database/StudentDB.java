@@ -13,6 +13,7 @@ public class StudentDB  extends SQLiteOpenHelper {
 
     public static String TB_NAME="Detail";
     SQLiteDatabase  db;
+// add cinn
 
     //filed name
     public static final String KEY_Id="id";
